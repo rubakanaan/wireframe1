@@ -1,3 +1,8 @@
+
+
+
+function welcomeUser(){
+
 var userName = prompt("PLEASE ENTER YOUR NAME.","");
        
 if (userName >= 'a' || userName >='A' )
@@ -8,7 +13,10 @@ else
 { alert("WELCOME!");}
 confirm("PLEASE RATE OUR WEBSITE.");
 
-document.write("WELCOME TO RESTAURANT! \n " )
+}
+
+
+
 
 
 
@@ -40,4 +48,5 @@ else
 }
 }
 
+welcomeUser();
 food();

@@ -1,0 +1,57 @@
+
+body{
+    margin:auto;
+    background-color:#e4d3cf;
+}
+header{ 
+    width:700px;
+    
+    
+}
+header img {
+    width:220px;height:220px ;
+  
+}
+
+header nav{
+    float: right;
+    margin-top: 90px;
+}
+header nav a {
+    padding-left: 10px;
+    font-size: 20px;
+    
+}
+
+main img{
+   width:100% ;
+}
+section label{
+    font-size: 30px;
+    padding-bottom: 25px;
+    color:#1b2021;
+}
+section table {
+   width: 25%;
+   border-collapse: collapse;
+}
+
+table td { 
+    font-size:20px ;
+    border: 2px solid #b67162;
+}
+
+section article {
+    width: 50%;
+    word-wrap: break-word;
+    font-size: 25px;
+ padding-top: 15px;;
+ color:#466b70;
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+    height:70px;
+    background-color: #5f939a;
+}
